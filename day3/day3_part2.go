@@ -7,17 +7,28 @@ import (
 	"strconv"
 )
 
-var checkMapDigits = make([][]int, 0)
-var checkMapDots = make([][]int, 0)
-
-type debugLine struct {
-	leftCheck  string
-	rightCheck string
-	backLine   string
-	line       string
-	bottomLine string
-	partNumber int
-	lineNumber int
+func findLineAdjacencies(li [][]int, checkLine, starLine string, starIndex int) (int, int) {
+	var numberOne, numberTwo int = 0, 0
+	var err error
+	for _, index := range li {
+		if starIndex >= index[0]-1 && starIndex <= index[1] {
+			if numberOne == 0 {
+				numberOne, err = strconv.Atoi(checkLine[index[0]:index[1]])
+				if err != nil {
+					fmt.Printf("unable to extract number: %s\n", err)
+				} else {
+					fmt.Printf("Number that is adjacent with is %d\n", numberOne)
+				}
+			} else {
+				numberTwo, err = strconv.Atoi(checkLine[index[0]:index[1]])
+				if err != nil {
+					fmt.Printf("unable to extract adjacent number: %s\n", err)
+				}
+				fmt.Printf("we have found another adjacent number.. %d\n", numberTwo)
+			}
+		}
+	}
+	return numberOne, numberTwo
 }
 
 func main() {
@@ -51,9 +62,6 @@ func main() {
 			fmt.Println("t[", i, "] ", topLine)
 			fmt.Println("s[", i+1, "] ", starLine)
 			fmt.Println("b[", i+2, "] ", bottomLine)
-			topLineNumber := i
-			starLineNumber := i + 1
-			bottomLineNumber := i + 2
 
 			ti := numberExtractor.FindAllIndex([]byte(topLine), -1)    // top index
 			ci := numberExtractor.FindAllIndex([]byte(starLine), -1)   // current index
@@ -61,81 +69,12 @@ func main() {
 			si := starExtractor.FindAllIndex([]byte(starLine), -1)     // star index
 
 			for _, starIndex := range si {
-				fmt.Printf("line %d, star found at position: %d\n", starLineNumber, starIndex[0])
+				fmt.Printf("line %d, star found at position: %d\n", i+1, starIndex[0])
 
-				// do check on topline
-				var topNumberOne, topNumberTwo int = 0, 0
-
-				for _, topIndex := range ti {
-					if starIndex[0] >= topIndex[0]-1 && starIndex[0] <= topIndex[1] {
-						fmt.Printf("starIndex/topIndex adjacency [line %d] topIndex[0]-1:%d and [line %d] starIndex[0]:%d ...", topLineNumber, topIndex[0]-1, starLineNumber, starIndex[0])
-						if topNumberOne == 0 {
-							topNumberOne, err = strconv.Atoi(topLine[topIndex[0]:topIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract top number one: %s\n", err)
-							} else {
-								fmt.Printf("number that is adjacent with star is %d\n", topNumberOne)
-							}
-						} else {
-							topNumberTwo, err = strconv.Atoi(topLine[topIndex[0]:topIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract adjacent number two: %s\n", err)
-							}
-							fmt.Printf("we have found another adjacent top number.. %d\n", topNumberTwo)
-						}
-					}
-				}
-
-				// do check on the starline
-				var starNumberOne, starNumberTwo int = 0, 0
-				for _, currentIndex := range ci {
-					if starIndex[0] >= currentIndex[0]-1 && starIndex[0] <= currentIndex[1] {
-						fmt.Printf("starIndex/currentIndex adjacency [line %d] currentIndex[0]-1:%d and [line %d] starIndex[0]:%d ...", starLineNumber, currentIndex[0]-1, starLineNumber, starIndex[0])
-						if starNumberOne == 0 {
-							starNumberOne, err = strconv.Atoi(starLine[currentIndex[0]:currentIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract star number: %s\n", err)
-							} else {
-								fmt.Printf("number that is adjacent with star is %d\n", starNumberOne)
-							}
-
-						} else {
-							starNumberTwo, err = strconv.Atoi(starLine[currentIndex[0]:currentIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract adjacent number: %s\n", err)
-							}
-							fmt.Printf("we have found another adjacent star number.. %d\n", starNumberTwo)
-						}
-					}
-				}
-
-				var bottonNumberOne, bottonNumberTwo int = 0, 0
-				for _, bottomIndex := range bi {
-					if starIndex[0] >= bottomIndex[0]-1 && starIndex[0] <= bottomIndex[1] {
-						fmt.Printf("starIndex/bottomIndex adjacency [line %d] bottomIndex[0]-1:%d and [line %d] starIndex[0]:%d ...", bottomLineNumber, bottomIndex[0]-1, starLineNumber, starIndex[0])
-						if bottonNumberOne == 0 {
-							bottonNumberOne, err = strconv.Atoi(bottomLine[bottomIndex[0]:bottomIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract bottom number: %s\n", err)
-							} else {
-								fmt.Printf("Number that is adjacent with star is %d\n", bottonNumberOne)
-							}
-						} else {
-							bottonNumberTwo, err = strconv.Atoi(bottomLine[bottomIndex[0]:bottomIndex[1]])
-							if err != nil {
-								fmt.Printf("unable to extract adjacent number: %s\n", err)
-							}
-							fmt.Printf("we have found another adjacent bottom number.. %d\n", bottonNumberTwo)
-						}
-					}
-				}
-
-				fmt.Println("topNumberOne ", topNumberOne)
-				fmt.Println("topNumberTwo ", topNumberTwo)
-				fmt.Println("starNumberOne ", starNumberOne)
-				fmt.Println("starNumberTwo ", starNumberTwo)
-				fmt.Println("bottonNumberOne ", bottonNumberOne)
-				fmt.Println("bottonNumberTwo ", bottonNumberTwo)
+				// do checks
+				topNumberOne, topNumberTwo := findLineAdjacencies(ti, topLine, starLine, starIndex[0])	
+				starNumberOne, starNumberTwo := findLineAdjacencies(ci, starLine, starLine, starIndex[0])
+				bottonNumberOne, bottonNumberTwo := findLineAdjacencies(bi, bottomLine, starLine, starIndex[0])
 
 				var loopCheck [6]int = [6]int{
 					topNumberOne,
@@ -177,7 +116,6 @@ func main() {
 					fmt.Println("Rolling Sum is", rollingSum)
 
 				}
-
 			}
 			fmt.Println()
 			//time.Sleep(10 * time.Second)

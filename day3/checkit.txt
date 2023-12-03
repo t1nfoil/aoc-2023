@@ -1,0 +1,3731 @@
+topNumberOne  798
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  489
+setting n1 to 0
+v is  798
+setting n2 to 0
+v is  489
+This starNumber has exactly two adjacencies.. product is  390222
+--
+topNumberOne  145
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  817
+setting n1 to 0
+v is  145
+setting n2 to 0
+v is  817
+This starNumber has exactly two adjacencies.. product is  118465
+--
+topNumberOne  629
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  880
+setting n1 to 0
+v is  629
+setting n2 to 0
+v is  880
+This starNumber has exactly two adjacencies.. product is  553520
+--
+topNumberOne  455
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  996
+setting n1 to 0
+v is  455
+setting n2 to 0
+v is  996
+This starNumber has exactly two adjacencies.. product is  453180
+--
+topNumberOne  130
+topNumberTwo  0
+starNumberOne  854
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  130
+setting n2 to 0
+v is  854
+This starNumber has exactly two adjacencies.. product is  111020
+--
+topNumberOne  154
+topNumberTwo  0
+starNumberOne  560
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  154
+setting n2 to 0
+v is  560
+This starNumber has exactly two adjacencies.. product is  86240
+--
+topNumberOne  179
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  813
+setting n1 to 0
+v is  179
+setting n2 to 0
+v is  813
+This starNumber has exactly two adjacencies.. product is  145527
+--
+topNumberOne  737
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  234
+setting n1 to 0
+v is  737
+setting n2 to 0
+v is  234
+This starNumber has exactly two adjacencies.. product is  172458
+--
+topNumberOne  194
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  552
+setting n1 to 0
+v is  194
+setting n2 to 0
+v is  552
+This starNumber has exactly two adjacencies.. product is  107088
+--
+topNumberOne  699
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  631
+setting n1 to 0
+v is  699
+setting n2 to 0
+v is  631
+This starNumber has exactly two adjacencies.. product is  441069
+--
+topNumberOne  307
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  939
+setting n1 to 0
+v is  307
+setting n2 to 0
+v is  939
+This starNumber has exactly two adjacencies.. product is  288273
+--
+topNumberOne  370
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  729
+setting n1 to 0
+v is  370
+setting n2 to 0
+v is  729
+This starNumber has exactly two adjacencies.. product is  269730
+--
+topNumberOne  736
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  861
+setting n1 to 0
+v is  736
+setting n2 to 0
+v is  861
+This starNumber has exactly two adjacencies.. product is  633696
+--
+topNumberOne  131
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  979
+setting n1 to 0
+v is  131
+setting n2 to 0
+v is  979
+This starNumber has exactly two adjacencies.. product is  128249
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  158
+starNumberTwo  241
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  158
+setting n2 to 0
+v is  241
+This starNumber has exactly two adjacencies.. product is  38078
+--
+topNumberOne  243
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  115
+setting n1 to 0
+v is  243
+setting n2 to 0
+v is  115
+This starNumber has exactly two adjacencies.. product is  27945
+--
+topNumberOne  438
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  412
+setting n1 to 0
+v is  438
+setting n2 to 0
+v is  412
+This starNumber has exactly two adjacencies.. product is  180456
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  904
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  479
+setting n1 to 0
+v is  904
+setting n2 to 0
+v is  479
+This starNumber has exactly two adjacencies.. product is  433016
+--
+topNumberOne  138
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  922
+setting n1 to 0
+v is  138
+setting n2 to 0
+v is  922
+This starNumber has exactly two adjacencies.. product is  127236
+--
+topNumberOne  427
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  219
+setting n1 to 0
+v is  427
+setting n2 to 0
+v is  219
+This starNumber has exactly two adjacencies.. product is  93513
+--
+topNumberOne  905
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  323
+setting n1 to 0
+v is  905
+setting n2 to 0
+v is  323
+This starNumber has exactly two adjacencies.. product is  292315
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  702
+starNumberTwo  693
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  702
+setting n2 to 0
+v is  693
+This starNumber has exactly two adjacencies.. product is  486486
+--
+topNumberOne  989
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  109
+setting n1 to 0
+v is  989
+setting n2 to 0
+v is  109
+This starNumber has exactly two adjacencies.. product is  107801
+--
+topNumberOne  172
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  685
+setting n1 to 0
+v is  172
+setting n2 to 0
+v is  685
+This starNumber has exactly two adjacencies.. product is  117820
+--
+topNumberOne  751
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  583
+setting n1 to 0
+v is  751
+setting n2 to 0
+v is  583
+This starNumber has exactly two adjacencies.. product is  437833
+--
+topNumberOne  886
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  871
+setting n1 to 0
+v is  886
+setting n2 to 0
+v is  871
+This starNumber has exactly two adjacencies.. product is  771706
+--
+topNumberOne  922
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  370
+setting n1 to 0
+v is  922
+setting n2 to 0
+v is  370
+This starNumber has exactly two adjacencies.. product is  341140
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  73
+starNumberTwo  212
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  73
+setting n2 to 0
+v is  212
+This starNumber has exactly two adjacencies.. product is  15476
+--
+topNumberOne  923
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  60
+setting n1 to 0
+v is  923
+setting n2 to 0
+v is  60
+This starNumber has exactly two adjacencies.. product is  55380
+--
+topNumberOne  471
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  645
+setting n1 to 0
+v is  471
+setting n2 to 0
+v is  645
+This starNumber has exactly two adjacencies.. product is  303795
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  618
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  353
+setting n1 to 0
+v is  618
+setting n2 to 0
+v is  353
+This starNumber has exactly two adjacencies.. product is  218154
+--
+topNumberOne  543
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  536
+setting n1 to 0
+v is  543
+setting n2 to 0
+v is  536
+This starNumber has exactly two adjacencies.. product is  291048
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  150
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  761
+setting n1 to 0
+v is  150
+setting n2 to 0
+v is  761
+This starNumber has exactly two adjacencies.. product is  114150
+--
+topNumberOne  426
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  238
+setting n1 to 0
+v is  426
+setting n2 to 0
+v is  238
+This starNumber has exactly two adjacencies.. product is  101388
+--
+topNumberOne  203
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  899
+setting n1 to 0
+v is  203
+setting n2 to 0
+v is  899
+This starNumber has exactly two adjacencies.. product is  182497
+--
+topNumberOne  312
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  75
+setting n1 to 0
+v is  312
+setting n2 to 0
+v is  75
+This starNumber has exactly two adjacencies.. product is  23400
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  271
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  795
+setting n1 to 0
+v is  271
+setting n2 to 0
+v is  795
+This starNumber has exactly two adjacencies.. product is  215445
+--
+topNumberOne  415
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  772
+setting n1 to 0
+v is  415
+setting n2 to 0
+v is  772
+This starNumber has exactly two adjacencies.. product is  320380
+--
+topNumberOne  168
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  283
+setting n1 to 0
+v is  168
+setting n2 to 0
+v is  283
+This starNumber has exactly two adjacencies.. product is  47544
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  152
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  77
+setting n1 to 0
+v is  152
+setting n2 to 0
+v is  77
+This starNumber has exactly two adjacencies.. product is  11704
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  852
+starNumberTwo  387
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  852
+setting n2 to 0
+v is  387
+This starNumber has exactly two adjacencies.. product is  329724
+--
+topNumberOne  789
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  571
+setting n1 to 0
+v is  789
+setting n2 to 0
+v is  571
+This starNumber has exactly two adjacencies.. product is  450519
+--
+topNumberOne  942
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  272
+setting n1 to 0
+v is  942
+setting n2 to 0
+v is  272
+This starNumber has exactly two adjacencies.. product is  256224
+--
+topNumberOne  863
+topNumberTwo  0
+starNumberOne  837
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  863
+setting n2 to 0
+v is  837
+This starNumber has exactly two adjacencies.. product is  722331
+--
+topNumberOne  912
+topNumberTwo  0
+starNumberOne  16
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  912
+setting n2 to 0
+v is  16
+This starNumber has exactly two adjacencies.. product is  14592
+--
+topNumberOne  897
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  105
+setting n1 to 0
+v is  897
+setting n2 to 0
+v is  105
+This starNumber has exactly two adjacencies.. product is  94185
+--
+topNumberOne  966
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  771
+setting n1 to 0
+v is  966
+setting n2 to 0
+v is  771
+This starNumber has exactly two adjacencies.. product is  744786
+--
+topNumberOne  566
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  123
+setting n1 to 0
+v is  566
+setting n2 to 0
+v is  123
+This starNumber has exactly two adjacencies.. product is  69618
+--
+topNumberOne  53
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  975
+setting n1 to 0
+v is  53
+setting n2 to 0
+v is  975
+This starNumber has exactly two adjacencies.. product is  51675
+--
+topNumberOne  967
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  142
+setting n1 to 0
+v is  967
+setting n2 to 0
+v is  142
+This starNumber has exactly two adjacencies.. product is  137314
+--
+topNumberOne  71
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  619
+setting n1 to 0
+v is  71
+setting n2 to 0
+v is  619
+This starNumber has exactly two adjacencies.. product is  43949
+--
+topNumberOne  424
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  472
+setting n1 to 0
+v is  424
+setting n2 to 0
+v is  472
+This starNumber has exactly two adjacencies.. product is  200128
+--
+topNumberOne  746
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  693
+setting n1 to 0
+v is  746
+setting n2 to 0
+v is  693
+This starNumber has exactly two adjacencies.. product is  516978
+--
+topNumberOne  832
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  710
+setting n1 to 0
+v is  832
+setting n2 to 0
+v is  710
+This starNumber has exactly two adjacencies.. product is  590720
+--
+topNumberOne  181
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  888
+setting n1 to 0
+v is  181
+setting n2 to 0
+v is  888
+This starNumber has exactly two adjacencies.. product is  160728
+--
+topNumberOne  99
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  666
+setting n1 to 0
+v is  99
+setting n2 to 0
+v is  666
+This starNumber has exactly two adjacencies.. product is  65934
+--
+topNumberOne  59
+topNumberTwo  442
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  59
+setting n2 to 0
+v is  442
+This starNumber has exactly two adjacencies.. product is  26078
+--
+topNumberOne  974
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  328
+setting n1 to 0
+v is  974
+setting n2 to 0
+v is  328
+This starNumber has exactly two adjacencies.. product is  319472
+--
+topNumberOne  437
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  682
+setting n1 to 0
+v is  437
+setting n2 to 0
+v is  682
+This starNumber has exactly two adjacencies.. product is  298034
+--
+topNumberOne  235
+topNumberTwo  321
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  235
+setting n2 to 0
+v is  321
+This starNumber has exactly two adjacencies.. product is  75435
+--
+topNumberOne  678
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  726
+setting n1 to 0
+v is  678
+setting n2 to 0
+v is  726
+This starNumber has exactly two adjacencies.. product is  492228
+--
+topNumberOne  5
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  570
+setting n1 to 0
+v is  5
+setting n2 to 0
+v is  570
+This starNumber has exactly two adjacencies.. product is  2850
+--
+topNumberOne  23
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  828
+setting n1 to 0
+v is  23
+setting n2 to 0
+v is  828
+This starNumber has exactly two adjacencies.. product is  19044
+--
+topNumberOne  392
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  558
+setting n1 to 0
+v is  392
+setting n2 to 0
+v is  558
+This starNumber has exactly two adjacencies.. product is  218736
+--
+topNumberOne  893
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  647
+setting n1 to 0
+v is  893
+setting n2 to 0
+v is  647
+This starNumber has exactly two adjacencies.. product is  577771
+--
+topNumberOne  345
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  290
+setting n1 to 0
+v is  345
+setting n2 to 0
+v is  290
+This starNumber has exactly two adjacencies.. product is  100050
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  751
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  401
+setting n1 to 0
+v is  751
+setting n2 to 0
+v is  401
+This starNumber has exactly two adjacencies.. product is  301151
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  353
+starNumberTwo  674
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  353
+setting n2 to 0
+v is  674
+This starNumber has exactly two adjacencies.. product is  237922
+--
+topNumberOne  59
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  892
+setting n1 to 0
+v is  59
+setting n2 to 0
+v is  892
+This starNumber has exactly two adjacencies.. product is  52628
+--
+topNumberOne  290
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  285
+setting n1 to 0
+v is  290
+setting n2 to 0
+v is  285
+This starNumber has exactly two adjacencies.. product is  82650
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  329
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  98
+setting n1 to 0
+v is  329
+setting n2 to 0
+v is  98
+This starNumber has exactly two adjacencies.. product is  32242
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  94
+starNumberTwo  254
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  94
+setting n2 to 0
+v is  254
+This starNumber has exactly two adjacencies.. product is  23876
+--
+topNumberOne  605
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  399
+setting n1 to 0
+v is  605
+setting n2 to 0
+v is  399
+This starNumber has exactly two adjacencies.. product is  241395
+--
+topNumberOne  192
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  770
+setting n1 to 0
+v is  192
+setting n2 to 0
+v is  770
+This starNumber has exactly two adjacencies.. product is  147840
+--
+topNumberOne  328
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  336
+setting n1 to 0
+v is  328
+setting n2 to 0
+v is  336
+This starNumber has exactly two adjacencies.. product is  110208
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  455
+starNumberTwo  429
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  455
+setting n2 to 0
+v is  429
+This starNumber has exactly two adjacencies.. product is  195195
+--
+topNumberOne  895
+topNumberTwo  0
+starNumberOne  794
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  895
+setting n2 to 0
+v is  794
+This starNumber has exactly two adjacencies.. product is  710630
+--
+topNumberOne  459
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  254
+setting n1 to 0
+v is  459
+setting n2 to 0
+v is  254
+This starNumber has exactly two adjacencies.. product is  116586
+--
+topNumberOne  512
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  516
+setting n1 to 0
+v is  512
+setting n2 to 0
+v is  516
+This starNumber has exactly two adjacencies.. product is  264192
+--
+topNumberOne  763
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  291
+setting n1 to 0
+v is  763
+setting n2 to 0
+v is  291
+This starNumber has exactly two adjacencies.. product is  222033
+--
+topNumberOne  676
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  722
+setting n1 to 0
+v is  676
+setting n2 to 0
+v is  722
+This starNumber has exactly two adjacencies.. product is  488072
+--
+topNumberOne  614
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  486
+setting n1 to 0
+v is  614
+setting n2 to 0
+v is  486
+This starNumber has exactly two adjacencies.. product is  298404
+--
+topNumberOne  747
+topNumberTwo  389
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  747
+setting n2 to 0
+v is  389
+This starNumber has exactly two adjacencies.. product is  290583
+--
+topNumberOne  576
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  749
+setting n1 to 0
+v is  576
+setting n2 to 0
+v is  749
+This starNumber has exactly two adjacencies.. product is  431424
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  436
+starNumberTwo  910
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  436
+setting n2 to 0
+v is  910
+This starNumber has exactly two adjacencies.. product is  396760
+--
+topNumberOne  259
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  99
+setting n1 to 0
+v is  259
+setting n2 to 0
+v is  99
+This starNumber has exactly two adjacencies.. product is  25641
+--
+topNumberOne  867
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  306
+setting n1 to 0
+v is  867
+setting n2 to 0
+v is  306
+This starNumber has exactly two adjacencies.. product is  265302
+--
+topNumberOne  918
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  539
+setting n1 to 0
+v is  918
+setting n2 to 0
+v is  539
+This starNumber has exactly two adjacencies.. product is  494802
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  658
+starNumberTwo  869
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  658
+setting n2 to 0
+v is  869
+This starNumber has exactly two adjacencies.. product is  571802
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  684
+starNumberTwo  636
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  684
+setting n2 to 0
+v is  636
+This starNumber has exactly two adjacencies.. product is  435024
+--
+topNumberOne  53
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  357
+setting n1 to 0
+v is  53
+setting n2 to 0
+v is  357
+This starNumber has exactly two adjacencies.. product is  18921
+--
+topNumberOne  850
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  458
+setting n1 to 0
+v is  850
+setting n2 to 0
+v is  458
+This starNumber has exactly two adjacencies.. product is  389300
+--
+topNumberOne  604
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  312
+setting n1 to 0
+v is  604
+setting n2 to 0
+v is  312
+This starNumber has exactly two adjacencies.. product is  188448
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  876
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  374
+setting n1 to 0
+v is  876
+setting n2 to 0
+v is  374
+This starNumber has exactly two adjacencies.. product is  327624
+--
+topNumberOne  109
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  422
+setting n1 to 0
+v is  109
+setting n2 to 0
+v is  422
+This starNumber has exactly two adjacencies.. product is  45998
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  914
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  589
+setting n1 to 0
+v is  914
+setting n2 to 0
+v is  589
+This starNumber has exactly two adjacencies.. product is  538346
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  466
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  500
+setting n1 to 0
+v is  466
+setting n2 to 0
+v is  500
+This starNumber has exactly two adjacencies.. product is  233000
+--
+topNumberOne  125
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  889
+setting n1 to 0
+v is  125
+setting n2 to 0
+v is  889
+This starNumber has exactly two adjacencies.. product is  111125
+--
+topNumberOne  972
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  717
+setting n1 to 0
+v is  972
+setting n2 to 0
+v is  717
+This starNumber has exactly two adjacencies.. product is  696924
+--
+topNumberOne  46
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  902
+setting n1 to 0
+v is  46
+setting n2 to 0
+v is  902
+This starNumber has exactly two adjacencies.. product is  41492
+--
+topNumberOne  804
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  831
+setting n1 to 0
+v is  804
+setting n2 to 0
+v is  831
+This starNumber has exactly two adjacencies.. product is  668124
+--
+topNumberOne  474
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  211
+setting n1 to 0
+v is  474
+setting n2 to 0
+v is  211
+This starNumber has exactly two adjacencies.. product is  100014
+--
+topNumberOne  19
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  739
+setting n1 to 0
+v is  19
+setting n2 to 0
+v is  739
+This starNumber has exactly two adjacencies.. product is  14041
+--
+topNumberOne  936
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  528
+setting n1 to 0
+v is  936
+setting n2 to 0
+v is  528
+This starNumber has exactly two adjacencies.. product is  494208
+--
+topNumberOne  839
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  156
+setting n1 to 0
+v is  839
+setting n2 to 0
+v is  156
+This starNumber has exactly two adjacencies.. product is  130884
+--
+topNumberOne  500
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  807
+setting n1 to 0
+v is  500
+setting n2 to 0
+v is  807
+This starNumber has exactly two adjacencies.. product is  403500
+--
+topNumberOne  105
+topNumberTwo  0
+starNumberOne  571
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  105
+setting n2 to 0
+v is  571
+This starNumber has exactly two adjacencies.. product is  59955
+--
+topNumberOne  794
+topNumberTwo  882
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  794
+setting n2 to 0
+v is  882
+This starNumber has exactly two adjacencies.. product is  700308
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  621
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  965
+setting n1 to 0
+v is  621
+setting n2 to 0
+v is  965
+This starNumber has exactly two adjacencies.. product is  599265
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  85
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  377
+setting n1 to 0
+v is  85
+setting n2 to 0
+v is  377
+This starNumber has exactly two adjacencies.. product is  32045
+--
+topNumberOne  528
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  267
+setting n1 to 0
+v is  528
+setting n2 to 0
+v is  267
+This starNumber has exactly two adjacencies.. product is  140976
+--
+topNumberOne  556
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  369
+setting n1 to 0
+v is  556
+setting n2 to 0
+v is  369
+This starNumber has exactly two adjacencies.. product is  205164
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  987
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  464
+setting n1 to 0
+v is  987
+setting n2 to 0
+v is  464
+This starNumber has exactly two adjacencies.. product is  457968
+--
+topNumberOne  507
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  808
+setting n1 to 0
+v is  507
+setting n2 to 0
+v is  808
+This starNumber has exactly two adjacencies.. product is  409656
+--
+topNumberOne  957
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  354
+setting n1 to 0
+v is  957
+setting n2 to 0
+v is  354
+This starNumber has exactly two adjacencies.. product is  338778
+--
+topNumberOne  471
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  910
+setting n1 to 0
+v is  471
+setting n2 to 0
+v is  910
+This starNumber has exactly two adjacencies.. product is  428610
+--
+topNumberOne  169
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  952
+setting n1 to 0
+v is  169
+setting n2 to 0
+v is  952
+This starNumber has exactly two adjacencies.. product is  160888
+--
+topNumberOne  499
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  832
+setting n1 to 0
+v is  499
+setting n2 to 0
+v is  832
+This starNumber has exactly two adjacencies.. product is  415168
+--
+topNumberOne  161
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  401
+setting n1 to 0
+v is  161
+setting n2 to 0
+v is  401
+This starNumber has exactly two adjacencies.. product is  64561
+--
+topNumberOne  643
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  144
+setting n1 to 0
+v is  643
+setting n2 to 0
+v is  144
+This starNumber has exactly two adjacencies.. product is  92592
+--
+topNumberOne  159
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  979
+setting n1 to 0
+v is  159
+setting n2 to 0
+v is  979
+This starNumber has exactly two adjacencies.. product is  155661
+--
+topNumberOne  308
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  824
+setting n1 to 0
+v is  308
+setting n2 to 0
+v is  824
+This starNumber has exactly two adjacencies.. product is  253792
+--
+topNumberOne  296
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  582
+setting n1 to 0
+v is  296
+setting n2 to 0
+v is  582
+This starNumber has exactly two adjacencies.. product is  172272
+--
+topNumberOne  332
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  74
+setting n1 to 0
+v is  332
+setting n2 to 0
+v is  74
+This starNumber has exactly two adjacencies.. product is  24568
+--
+topNumberOne  987
+topNumberTwo  0
+starNumberOne  292
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  987
+setting n2 to 0
+v is  292
+This starNumber has exactly two adjacencies.. product is  288204
+--
+topNumberOne  254
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  399
+setting n1 to 0
+v is  254
+setting n2 to 0
+v is  399
+This starNumber has exactly two adjacencies.. product is  101346
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  492
+starNumberTwo  578
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  492
+setting n2 to 0
+v is  578
+This starNumber has exactly two adjacencies.. product is  284376
+--
+topNumberOne  756
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  100
+setting n1 to 0
+v is  756
+setting n2 to 0
+v is  100
+This starNumber has exactly two adjacencies.. product is  75600
+--
+topNumberOne  171
+topNumberTwo  0
+starNumberOne  454
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  171
+setting n2 to 0
+v is  454
+This starNumber has exactly two adjacencies.. product is  77634
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  83
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  687
+setting n1 to 0
+v is  83
+setting n2 to 0
+v is  687
+This starNumber has exactly two adjacencies.. product is  57021
+--
+topNumberOne  919
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  192
+setting n1 to 0
+v is  919
+setting n2 to 0
+v is  192
+This starNumber has exactly two adjacencies.. product is  176448
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  185
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  686
+setting n1 to 0
+v is  185
+setting n2 to 0
+v is  686
+This starNumber has exactly two adjacencies.. product is  126910
+--
+topNumberOne  582
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  545
+setting n1 to 0
+v is  582
+setting n2 to 0
+v is  545
+This starNumber has exactly two adjacencies.. product is  317190
+--
+topNumberOne  186
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  504
+setting n1 to 0
+v is  186
+setting n2 to 0
+v is  504
+This starNumber has exactly two adjacencies.. product is  93744
+--
+topNumberOne  539
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  610
+setting n1 to 0
+v is  539
+setting n2 to 0
+v is  610
+This starNumber has exactly two adjacencies.. product is  328790
+--
+topNumberOne  192
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  50
+setting n1 to 0
+v is  192
+setting n2 to 0
+v is  50
+This starNumber has exactly two adjacencies.. product is  9600
+--
+topNumberOne  887
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  802
+setting n1 to 0
+v is  887
+setting n2 to 0
+v is  802
+This starNumber has exactly two adjacencies.. product is  711374
+--
+topNumberOne  243
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  785
+setting n1 to 0
+v is  243
+setting n2 to 0
+v is  785
+This starNumber has exactly two adjacencies.. product is  190755
+--
+topNumberOne  877
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  577
+setting n1 to 0
+v is  877
+setting n2 to 0
+v is  577
+This starNumber has exactly two adjacencies.. product is  506029
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  296
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  317
+setting n1 to 0
+v is  296
+setting n2 to 0
+v is  317
+This starNumber has exactly two adjacencies.. product is  93832
+--
+topNumberOne  76
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  561
+setting n1 to 0
+v is  76
+setting n2 to 0
+v is  561
+This starNumber has exactly two adjacencies.. product is  42636
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  223
+starNumberTwo  478
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  223
+setting n2 to 0
+v is  478
+This starNumber has exactly two adjacencies.. product is  106594
+--
+topNumberOne  541
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  999
+setting n1 to 0
+v is  541
+setting n2 to 0
+v is  999
+This starNumber has exactly two adjacencies.. product is  540459
+--
+topNumberOne  782
+topNumberTwo  0
+starNumberOne  721
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  782
+setting n2 to 0
+v is  721
+This starNumber has exactly two adjacencies.. product is  563822
+--
+topNumberOne  523
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  221
+setting n1 to 0
+v is  523
+setting n2 to 0
+v is  221
+This starNumber has exactly two adjacencies.. product is  115583
+--
+topNumberOne  96
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  272
+setting n1 to 0
+v is  96
+setting n2 to 0
+v is  272
+This starNumber has exactly two adjacencies.. product is  26112
+--
+topNumberOne  142
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  372
+setting n1 to 0
+v is  142
+setting n2 to 0
+v is  372
+This starNumber has exactly two adjacencies.. product is  52824
+--
+topNumberOne  530
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  652
+setting n1 to 0
+v is  530
+setting n2 to 0
+v is  652
+This starNumber has exactly two adjacencies.. product is  345560
+--
+topNumberOne  295
+topNumberTwo  0
+starNumberOne  40
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  295
+setting n2 to 0
+v is  40
+This starNumber has exactly two adjacencies.. product is  11800
+--
+topNumberOne  412
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  110
+setting n1 to 0
+v is  412
+setting n2 to 0
+v is  110
+This starNumber has exactly two adjacencies.. product is  45320
+--
+topNumberOne  52
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  305
+setting n1 to 0
+v is  52
+setting n2 to 0
+v is  305
+This starNumber has exactly two adjacencies.. product is  15860
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  988
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  885
+setting n1 to 0
+v is  988
+setting n2 to 0
+v is  885
+This starNumber has exactly two adjacencies.. product is  874380
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  773
+starNumberTwo  100
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  773
+setting n2 to 0
+v is  100
+This starNumber has exactly two adjacencies.. product is  77300
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  127
+starNumberTwo  899
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  127
+setting n2 to 0
+v is  899
+This starNumber has exactly two adjacencies.. product is  114173
+--
+topNumberOne  958
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  203
+setting n1 to 0
+v is  958
+setting n2 to 0
+v is  203
+This starNumber has exactly two adjacencies.. product is  194474
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  174
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  848
+setting n1 to 0
+v is  174
+setting n2 to 0
+v is  848
+This starNumber has exactly two adjacencies.. product is  147552
+--
+topNumberOne  585
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  170
+setting n1 to 0
+v is  585
+setting n2 to 0
+v is  170
+This starNumber has exactly two adjacencies.. product is  99450
+--
+topNumberOne  268
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  179
+setting n1 to 0
+v is  268
+setting n2 to 0
+v is  179
+This starNumber has exactly two adjacencies.. product is  47972
+--
+topNumberOne  26
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  458
+setting n1 to 0
+v is  26
+setting n2 to 0
+v is  458
+This starNumber has exactly two adjacencies.. product is  11908
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  338
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  870
+setting n1 to 0
+v is  338
+setting n2 to 0
+v is  870
+This starNumber has exactly two adjacencies.. product is  294060
+--
+topNumberOne  474
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  696
+setting n1 to 0
+v is  474
+setting n2 to 0
+v is  696
+This starNumber has exactly two adjacencies.. product is  329904
+--
+topNumberOne  982
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  692
+setting n1 to 0
+v is  982
+setting n2 to 0
+v is  692
+This starNumber has exactly two adjacencies.. product is  679544
+--
+topNumberOne  235
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  55
+setting n1 to 0
+v is  235
+setting n2 to 0
+v is  55
+This starNumber has exactly two adjacencies.. product is  12925
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  29
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  456
+setting n1 to 0
+v is  29
+setting n2 to 0
+v is  456
+This starNumber has exactly two adjacencies.. product is  13224
+--
+topNumberOne  43
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  865
+setting n1 to 0
+v is  43
+setting n2 to 0
+v is  865
+This starNumber has exactly two adjacencies.. product is  37195
+--
+topNumberOne  278
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  317
+setting n1 to 0
+v is  278
+setting n2 to 0
+v is  317
+This starNumber has exactly two adjacencies.. product is  88126
+--
+topNumberOne  222
+topNumberTwo  604
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  222
+setting n2 to 0
+v is  604
+This starNumber has exactly two adjacencies.. product is  134088
+--
+topNumberOne  55
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  89
+setting n1 to 0
+v is  55
+setting n2 to 0
+v is  89
+This starNumber has exactly two adjacencies.. product is  4895
+--
+topNumberOne  844
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  417
+setting n1 to 0
+v is  844
+setting n2 to 0
+v is  417
+This starNumber has exactly two adjacencies.. product is  351948
+--
+topNumberOne  27
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  614
+setting n1 to 0
+v is  27
+setting n2 to 0
+v is  614
+This starNumber has exactly two adjacencies.. product is  16578
+--
+topNumberOne  718
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  443
+setting n1 to 0
+v is  718
+setting n2 to 0
+v is  443
+This starNumber has exactly two adjacencies.. product is  318074
+--
+topNumberOne  995
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  940
+setting n1 to 0
+v is  995
+setting n2 to 0
+v is  940
+This starNumber has exactly two adjacencies.. product is  935300
+--
+topNumberOne  771
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  194
+setting n1 to 0
+v is  771
+setting n2 to 0
+v is  194
+This starNumber has exactly two adjacencies.. product is  149574
+--
+topNumberOne  589
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  872
+setting n1 to 0
+v is  589
+setting n2 to 0
+v is  872
+This starNumber has exactly two adjacencies.. product is  513608
+--
+topNumberOne  417
+topNumberTwo  0
+starNumberOne  658
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  417
+setting n2 to 0
+v is  658
+This starNumber has exactly two adjacencies.. product is  274386
+--
+topNumberOne  678
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  215
+setting n1 to 0
+v is  678
+setting n2 to 0
+v is  215
+This starNumber has exactly two adjacencies.. product is  145770
+--
+topNumberOne  811
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  305
+setting n1 to 0
+v is  811
+setting n2 to 0
+v is  305
+This starNumber has exactly two adjacencies.. product is  247355
+--
+topNumberOne  622
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  671
+setting n1 to 0
+v is  622
+setting n2 to 0
+v is  671
+This starNumber has exactly two adjacencies.. product is  417362
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  841
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  695
+setting n1 to 0
+v is  841
+setting n2 to 0
+v is  695
+This starNumber has exactly two adjacencies.. product is  584495
+--
+topNumberOne  90
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  832
+setting n1 to 0
+v is  90
+setting n2 to 0
+v is  832
+This starNumber has exactly two adjacencies.. product is  74880
+--
+topNumberOne  587
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  271
+setting n1 to 0
+v is  587
+setting n2 to 0
+v is  271
+This starNumber has exactly two adjacencies.. product is  159077
+--
+topNumberOne  322
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  228
+setting n1 to 0
+v is  322
+setting n2 to 0
+v is  228
+This starNumber has exactly two adjacencies.. product is  73416
+--
+topNumberOne  694
+topNumberTwo  0
+starNumberOne  21
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  694
+setting n2 to 0
+v is  21
+This starNumber has exactly two adjacencies.. product is  14574
+--
+topNumberOne  223
+topNumberTwo  462
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  223
+setting n2 to 0
+v is  462
+This starNumber has exactly two adjacencies.. product is  103026
+--
+topNumberOne  828
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  182
+setting n1 to 0
+v is  828
+setting n2 to 0
+v is  182
+This starNumber has exactly two adjacencies.. product is  150696
+--
+topNumberOne  255
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  143
+setting n1 to 0
+v is  255
+setting n2 to 0
+v is  143
+This starNumber has exactly two adjacencies.. product is  36465
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  664
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  792
+setting n1 to 0
+v is  664
+setting n2 to 0
+v is  792
+This starNumber has exactly two adjacencies.. product is  525888
+--
+topNumberOne  357
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  321
+setting n1 to 0
+v is  357
+setting n2 to 0
+v is  321
+This starNumber has exactly two adjacencies.. product is  114597
+--
+topNumberOne  88
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  693
+setting n1 to 0
+v is  88
+setting n2 to 0
+v is  693
+This starNumber has exactly two adjacencies.. product is  60984
+--
+topNumberOne  865
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  188
+setting n1 to 0
+v is  865
+setting n2 to 0
+v is  188
+This starNumber has exactly two adjacencies.. product is  162620
+--
+topNumberOne  428
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  339
+setting n1 to 0
+v is  428
+setting n2 to 0
+v is  339
+This starNumber has exactly two adjacencies.. product is  145092
+--
+topNumberOne  552
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  416
+setting n1 to 0
+v is  552
+setting n2 to 0
+v is  416
+This starNumber has exactly two adjacencies.. product is  229632
+--
+topNumberOne  425
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  76
+setting n1 to 0
+v is  425
+setting n2 to 0
+v is  76
+This starNumber has exactly two adjacencies.. product is  32300
+--
+topNumberOne  894
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  801
+setting n1 to 0
+v is  894
+setting n2 to 0
+v is  801
+This starNumber has exactly two adjacencies.. product is  716094
+--
+topNumberOne  166
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  967
+setting n1 to 0
+v is  166
+setting n2 to 0
+v is  967
+This starNumber has exactly two adjacencies.. product is  160522
+--
+topNumberOne  384
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  875
+setting n1 to 0
+v is  384
+setting n2 to 0
+v is  875
+This starNumber has exactly two adjacencies.. product is  336000
+--
+topNumberOne  281
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  135
+setting n1 to 0
+v is  281
+setting n2 to 0
+v is  135
+This starNumber has exactly two adjacencies.. product is  37935
+--
+topNumberOne  490
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  688
+setting n1 to 0
+v is  490
+setting n2 to 0
+v is  688
+This starNumber has exactly two adjacencies.. product is  337120
+--
+topNumberOne  481
+topNumberTwo  0
+starNumberOne  68
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  481
+setting n2 to 0
+v is  68
+This starNumber has exactly two adjacencies.. product is  32708
+--
+topNumberOne  376
+topNumberTwo  0
+starNumberOne  243
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  376
+setting n2 to 0
+v is  243
+This starNumber has exactly two adjacencies.. product is  91368
+--
+topNumberOne  919
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  454
+setting n1 to 0
+v is  919
+setting n2 to 0
+v is  454
+This starNumber has exactly two adjacencies.. product is  417226
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  329
+starNumberTwo  87
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  329
+setting n2 to 0
+v is  87
+This starNumber has exactly two adjacencies.. product is  28623
+--
+topNumberOne  681
+topNumberTwo  0
+starNumberOne  138
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  681
+setting n2 to 0
+v is  138
+This starNumber has exactly two adjacencies.. product is  93978
+--
+topNumberOne  437
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  535
+setting n1 to 0
+v is  437
+setting n2 to 0
+v is  535
+This starNumber has exactly two adjacencies.. product is  233795
+--
+topNumberOne  755
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  383
+setting n1 to 0
+v is  755
+setting n2 to 0
+v is  383
+This starNumber has exactly two adjacencies.. product is  289165
+--
+topNumberOne  341
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  253
+setting n1 to 0
+v is  341
+setting n2 to 0
+v is  253
+This starNumber has exactly two adjacencies.. product is  86273
+--
+topNumberOne  302
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  502
+setting n1 to 0
+v is  302
+setting n2 to 0
+v is  502
+This starNumber has exactly two adjacencies.. product is  151604
+--
+topNumberOne  330
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  990
+setting n1 to 0
+v is  330
+setting n2 to 0
+v is  990
+This starNumber has exactly two adjacencies.. product is  326700
+--
+topNumberOne  779
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  338
+setting n1 to 0
+v is  779
+setting n2 to 0
+v is  338
+This starNumber has exactly two adjacencies.. product is  263302
+--
+topNumberOne  353
+topNumberTwo  0
+starNumberOne  162
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  353
+setting n2 to 0
+v is  162
+This starNumber has exactly two adjacencies.. product is  57186
+--
+topNumberOne  856
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  345
+setting n1 to 0
+v is  856
+setting n2 to 0
+v is  345
+This starNumber has exactly two adjacencies.. product is  295320
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  294
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  716
+setting n1 to 0
+v is  294
+setting n2 to 0
+v is  716
+This starNumber has exactly two adjacencies.. product is  210504
+--
+topNumberOne  413
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  502
+setting n1 to 0
+v is  413
+setting n2 to 0
+v is  502
+This starNumber has exactly two adjacencies.. product is  207326
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  905
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  664
+setting n1 to 0
+v is  905
+setting n2 to 0
+v is  664
+This starNumber has exactly two adjacencies.. product is  600920
+--
+topNumberOne  986
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  124
+setting n1 to 0
+v is  986
+setting n2 to 0
+v is  124
+This starNumber has exactly two adjacencies.. product is  122264
+--
+topNumberOne  276
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  616
+setting n1 to 0
+v is  276
+setting n2 to 0
+v is  616
+This starNumber has exactly two adjacencies.. product is  170016
+--
+topNumberOne  469
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  724
+setting n1 to 0
+v is  469
+setting n2 to 0
+v is  724
+This starNumber has exactly two adjacencies.. product is  339556
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  127
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  78
+setting n1 to 0
+v is  127
+setting n2 to 0
+v is  78
+This starNumber has exactly two adjacencies.. product is  9906
+--
+topNumberOne  232
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  498
+setting n1 to 0
+v is  232
+setting n2 to 0
+v is  498
+This starNumber has exactly two adjacencies.. product is  115536
+--
+topNumberOne  564
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  107
+setting n1 to 0
+v is  564
+setting n2 to 0
+v is  107
+This starNumber has exactly two adjacencies.. product is  60348
+--
+topNumberOne  661
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  109
+setting n1 to 0
+v is  661
+setting n2 to 0
+v is  109
+This starNumber has exactly two adjacencies.. product is  72049
+--
+topNumberOne  10
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  432
+setting n1 to 0
+v is  10
+setting n2 to 0
+v is  432
+This starNumber has exactly two adjacencies.. product is  4320
+--
+topNumberOne  429
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  423
+setting n1 to 0
+v is  429
+setting n2 to 0
+v is  423
+This starNumber has exactly two adjacencies.. product is  181467
+--
+topNumberOne  348
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  826
+setting n1 to 0
+v is  348
+setting n2 to 0
+v is  826
+This starNumber has exactly two adjacencies.. product is  287448
+--
+topNumberOne  283
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  988
+setting n1 to 0
+v is  283
+setting n2 to 0
+v is  988
+This starNumber has exactly two adjacencies.. product is  279604
+--
+topNumberOne  800
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  241
+setting n1 to 0
+v is  800
+setting n2 to 0
+v is  241
+This starNumber has exactly two adjacencies.. product is  192800
+--
+topNumberOne  755
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  227
+setting n1 to 0
+v is  755
+setting n2 to 0
+v is  227
+This starNumber has exactly two adjacencies.. product is  171385
+--
+topNumberOne  162
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  218
+setting n1 to 0
+v is  162
+setting n2 to 0
+v is  218
+This starNumber has exactly two adjacencies.. product is  35316
+--
+topNumberOne  743
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  543
+setting n1 to 0
+v is  743
+setting n2 to 0
+v is  543
+This starNumber has exactly two adjacencies.. product is  403449
+--
+topNumberOne  585
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  260
+setting n1 to 0
+v is  585
+setting n2 to 0
+v is  260
+This starNumber has exactly two adjacencies.. product is  152100
+--
+topNumberOne  262
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  912
+setting n1 to 0
+v is  262
+setting n2 to 0
+v is  912
+This starNumber has exactly two adjacencies.. product is  238944
+--
+topNumberOne  509
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  503
+setting n1 to 0
+v is  509
+setting n2 to 0
+v is  503
+This starNumber has exactly two adjacencies.. product is  256027
+--
+topNumberOne  144
+topNumberTwo  481
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  144
+setting n2 to 0
+v is  481
+This starNumber has exactly two adjacencies.. product is  69264
+--
+topNumberOne  467
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  593
+setting n1 to 0
+v is  467
+setting n2 to 0
+v is  593
+This starNumber has exactly two adjacencies.. product is  276931
+--
+topNumberOne  973
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  776
+setting n1 to 0
+v is  973
+setting n2 to 0
+v is  776
+This starNumber has exactly two adjacencies.. product is  755048
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  966
+starNumberTwo  37
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  966
+setting n2 to 0
+v is  37
+This starNumber has exactly two adjacencies.. product is  35742
+--
+topNumberOne  383
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  133
+setting n1 to 0
+v is  383
+setting n2 to 0
+v is  133
+This starNumber has exactly two adjacencies.. product is  50939
+--
+topNumberOne  422
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  851
+setting n1 to 0
+v is  422
+setting n2 to 0
+v is  851
+This starNumber has exactly two adjacencies.. product is  359122
+--
+topNumberOne  824
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  396
+setting n1 to 0
+v is  824
+setting n2 to 0
+v is  396
+This starNumber has exactly two adjacencies.. product is  326304
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  323
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  367
+setting n1 to 0
+v is  323
+setting n2 to 0
+v is  367
+This starNumber has exactly two adjacencies.. product is  118541
+--
+topNumberOne  557
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  359
+setting n1 to 0
+v is  557
+setting n2 to 0
+v is  359
+This starNumber has exactly two adjacencies.. product is  199963
+--
+topNumberOne  782
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  212
+setting n1 to 0
+v is  782
+setting n2 to 0
+v is  212
+This starNumber has exactly two adjacencies.. product is  165784
+--
+topNumberOne  252
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  618
+setting n1 to 0
+v is  252
+setting n2 to 0
+v is  618
+This starNumber has exactly two adjacencies.. product is  155736
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  965
+starNumberTwo  287
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  965
+setting n2 to 0
+v is  287
+This starNumber has exactly two adjacencies.. product is  276955
+--
+topNumberOne  169
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  282
+setting n1 to 0
+v is  169
+setting n2 to 0
+v is  282
+This starNumber has exactly two adjacencies.. product is  47658
+--
+topNumberOne  96
+topNumberTwo  0
+starNumberOne  802
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  96
+setting n2 to 0
+v is  802
+This starNumber has exactly two adjacencies.. product is  76992
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  579
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  106
+setting n1 to 0
+v is  579
+setting n2 to 0
+v is  106
+This starNumber has exactly two adjacencies.. product is  61374
+--
+topNumberOne  803
+topNumberTwo  501
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  803
+setting n2 to 0
+v is  501
+This starNumber has exactly two adjacencies.. product is  402303
+--
+topNumberOne  460
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  770
+setting n1 to 0
+v is  460
+setting n2 to 0
+v is  770
+This starNumber has exactly two adjacencies.. product is  354200
+--
+topNumberOne  98
+topNumberTwo  208
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  98
+setting n2 to 0
+v is  208
+This starNumber has exactly two adjacencies.. product is  20384
+--
+topNumberOne  804
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  462
+setting n1 to 0
+v is  804
+setting n2 to 0
+v is  462
+This starNumber has exactly two adjacencies.. product is  371448
+--
+topNumberOne  263
+topNumberTwo  0
+starNumberOne  576
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  263
+setting n2 to 0
+v is  576
+This starNumber has exactly two adjacencies.. product is  151488
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  545
+starNumberTwo  610
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  545
+setting n2 to 0
+v is  610
+This starNumber has exactly two adjacencies.. product is  332450
+--
+topNumberOne  143
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  228
+setting n1 to 0
+v is  143
+setting n2 to 0
+v is  228
+This starNumber has exactly two adjacencies.. product is  32604
+--
+topNumberOne  716
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  484
+setting n1 to 0
+v is  716
+setting n2 to 0
+v is  484
+This starNumber has exactly two adjacencies.. product is  346544
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  115
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  574
+setting n1 to 0
+v is  115
+setting n2 to 0
+v is  574
+This starNumber has exactly two adjacencies.. product is  66010
+--
+topNumberOne  497
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  880
+setting n1 to 0
+v is  497
+setting n2 to 0
+v is  880
+This starNumber has exactly two adjacencies.. product is  437360
+--
+topNumberOne  835
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  444
+setting n1 to 0
+v is  835
+setting n2 to 0
+v is  444
+This starNumber has exactly two adjacencies.. product is  370740
+--
+topNumberOne  247
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  901
+setting n1 to 0
+v is  247
+setting n2 to 0
+v is  901
+This starNumber has exactly two adjacencies.. product is  222547
+--
+topNumberOne  541
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  299
+setting n1 to 0
+v is  541
+setting n2 to 0
+v is  299
+This starNumber has exactly two adjacencies.. product is  161759
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  676
+starNumberTwo  765
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  676
+setting n2 to 0
+v is  765
+This starNumber has exactly two adjacencies.. product is  517140
+--
+topNumberOne  122
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  965
+setting n1 to 0
+v is  122
+setting n2 to 0
+v is  965
+This starNumber has exactly two adjacencies.. product is  117730
+--
+topNumberOne  505
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  656
+setting n1 to 0
+v is  505
+setting n2 to 0
+v is  656
+This starNumber has exactly two adjacencies.. product is  331280
+--
+topNumberOne  14
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  824
+setting n1 to 0
+v is  14
+setting n2 to 0
+v is  824
+This starNumber has exactly two adjacencies.. product is  11536
+--
+topNumberOne  210
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  383
+setting n1 to 0
+v is  210
+setting n2 to 0
+v is  383
+This starNumber has exactly two adjacencies.. product is  80430
+--
+topNumberOne  150
+topNumberTwo  948
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  150
+setting n2 to 0
+v is  948
+This starNumber has exactly two adjacencies.. product is  142200
+--
+topNumberOne  156
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  456
+setting n1 to 0
+v is  156
+setting n2 to 0
+v is  456
+This starNumber has exactly two adjacencies.. product is  71136
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  26
+starNumberTwo  781
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  26
+setting n2 to 0
+v is  781
+This starNumber has exactly two adjacencies.. product is  20306
+--
+topNumberOne  840
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  585
+setting n1 to 0
+v is  840
+setting n2 to 0
+v is  585
+This starNumber has exactly two adjacencies.. product is  491400
+--
+topNumberOne  249
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  229
+setting n1 to 0
+v is  249
+setting n2 to 0
+v is  229
+This starNumber has exactly two adjacencies.. product is  57021
+--
+topNumberOne  452
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  856
+setting n1 to 0
+v is  452
+setting n2 to 0
+v is  856
+This starNumber has exactly two adjacencies.. product is  386912
+--
+topNumberOne  746
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  698
+setting n1 to 0
+v is  746
+setting n2 to 0
+v is  698
+This starNumber has exactly two adjacencies.. product is  520708
+--
+topNumberOne  953
+topNumberTwo  943
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  953
+setting n2 to 0
+v is  943
+This starNumber has exactly two adjacencies.. product is  898679
+--
+topNumberOne  641
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  994
+setting n1 to 0
+v is  641
+setting n2 to 0
+v is  994
+This starNumber has exactly two adjacencies.. product is  637154
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  815
+starNumberTwo  206
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  815
+setting n2 to 0
+v is  206
+This starNumber has exactly two adjacencies.. product is  167890
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  960
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  511
+setting n1 to 0
+v is  960
+setting n2 to 0
+v is  511
+This starNumber has exactly two adjacencies.. product is  490560
+--
+topNumberOne  571
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  649
+setting n1 to 0
+v is  571
+setting n2 to 0
+v is  649
+This starNumber has exactly two adjacencies.. product is  370579
+--
+topNumberOne  876
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  634
+setting n1 to 0
+v is  876
+setting n2 to 0
+v is  634
+This starNumber has exactly two adjacencies.. product is  555384
+--
+topNumberOne  754
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  113
+setting n1 to 0
+v is  754
+setting n2 to 0
+v is  113
+This starNumber has exactly two adjacencies.. product is  85202
+--
+topNumberOne  597
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  18
+setting n1 to 0
+v is  597
+setting n2 to 0
+v is  18
+This starNumber has exactly two adjacencies.. product is  10746
+--
+topNumberOne  776
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  321
+setting n1 to 0
+v is  776
+setting n2 to 0
+v is  321
+This starNumber has exactly two adjacencies.. product is  249096
+--
+topNumberOne  266
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  194
+setting n1 to 0
+v is  266
+setting n2 to 0
+v is  194
+This starNumber has exactly two adjacencies.. product is  51604
+--
+topNumberOne  225
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  334
+setting n1 to 0
+v is  225
+setting n2 to 0
+v is  334
+This starNumber has exactly two adjacencies.. product is  75150
+--
+topNumberOne  353
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  627
+setting n1 to 0
+v is  353
+setting n2 to 0
+v is  627
+This starNumber has exactly two adjacencies.. product is  221331
+--
+topNumberOne  719
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  204
+setting n1 to 0
+v is  719
+setting n2 to 0
+v is  204
+This starNumber has exactly two adjacencies.. product is  146676
+--
+topNumberOne  212
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  247
+setting n1 to 0
+v is  212
+setting n2 to 0
+v is  247
+This starNumber has exactly two adjacencies.. product is  52364
+--
+topNumberOne  578
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  311
+setting n1 to 0
+v is  578
+setting n2 to 0
+v is  311
+This starNumber has exactly two adjacencies.. product is  179758
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  679
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  265
+setting n1 to 0
+v is  679
+setting n2 to 0
+v is  265
+This starNumber has exactly two adjacencies.. product is  179935
+--
+topNumberOne  248
+topNumberTwo  0
+starNumberOne  283
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  248
+setting n2 to 0
+v is  283
+This starNumber has exactly two adjacencies.. product is  70184
+--
+topNumberOne  290
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  929
+setting n1 to 0
+v is  290
+setting n2 to 0
+v is  929
+This starNumber has exactly two adjacencies.. product is  269410
+--
+topNumberOne  574
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  908
+setting n1 to 0
+v is  574
+setting n2 to 0
+v is  908
+This starNumber has exactly two adjacencies.. product is  521192
+--
+topNumberOne  38
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  419
+setting n1 to 0
+v is  38
+setting n2 to 0
+v is  419
+This starNumber has exactly two adjacencies.. product is  15922
+--
+topNumberOne  77
+topNumberTwo  0
+starNumberOne  848
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  77
+setting n2 to 0
+v is  848
+This starNumber has exactly two adjacencies.. product is  65296
+--
+topNumberOne  965
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  793
+setting n1 to 0
+v is  965
+setting n2 to 0
+v is  793
+This starNumber has exactly two adjacencies.. product is  765245
+--
+topNumberOne  869
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  85
+setting n1 to 0
+v is  869
+setting n2 to 0
+v is  85
+This starNumber has exactly two adjacencies.. product is  73865
+--
+topNumberOne  753
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  280
+setting n1 to 0
+v is  753
+setting n2 to 0
+v is  280
+This starNumber has exactly two adjacencies.. product is  210840
+--
+topNumberOne  403
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  654
+setting n1 to 0
+v is  403
+setting n2 to 0
+v is  654
+This starNumber has exactly two adjacencies.. product is  263562
+--
+topNumberOne  340
+topNumberTwo  0
+starNumberOne  436
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  340
+setting n2 to 0
+v is  436
+This starNumber has exactly two adjacencies.. product is  148240
+--
+topNumberOne  868
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  631
+setting n1 to 0
+v is  868
+setting n2 to 0
+v is  631
+This starNumber has exactly two adjacencies.. product is  547708
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  21
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  461
+setting n1 to 0
+v is  21
+setting n2 to 0
+v is  461
+This starNumber has exactly two adjacencies.. product is  9681
+--
+topNumberOne  105
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  178
+setting n1 to 0
+v is  105
+setting n2 to 0
+v is  178
+This starNumber has exactly two adjacencies.. product is  18690
+--
+topNumberOne  37
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  222
+setting n1 to 0
+v is  37
+setting n2 to 0
+v is  222
+This starNumber has exactly two adjacencies.. product is  8214
+--
+topNumberOne  75
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  448
+setting n1 to 0
+v is  75
+setting n2 to 0
+v is  448
+This starNumber has exactly two adjacencies.. product is  33600
+--
+topNumberOne  358
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  947
+setting n1 to 0
+v is  358
+setting n2 to 0
+v is  947
+This starNumber has exactly two adjacencies.. product is  339026
+--
+topNumberOne  22
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  14
+setting n1 to 0
+v is  22
+setting n2 to 0
+v is  14
+This starNumber has exactly two adjacencies.. product is  308
+--
+topNumberOne  512
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  683
+setting n1 to 0
+v is  512
+setting n2 to 0
+v is  683
+This starNumber has exactly two adjacencies.. product is  349696
+--
+topNumberOne  0
+topNumberTwo  0
+starNumberOne  84
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  914
+setting n1 to 0
+v is  84
+setting n2 to 0
+v is  914
+This starNumber has exactly two adjacencies.. product is  76776
+--
+topNumberOne  5
+topNumberTwo  0
+starNumberOne  999
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  5
+setting n2 to 0
+v is  999
+This starNumber has exactly two adjacencies.. product is  4995
+--
+topNumberOne  98
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  829
+setting n1 to 0
+v is  98
+setting n2 to 0
+v is  829
+This starNumber has exactly two adjacencies.. product is  81242
+--
+topNumberOne  584
+topNumberTwo  0
+starNumberOne  280
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  0
+setting n1 to 0
+v is  584
+setting n2 to 0
+v is  280
+This starNumber has exactly two adjacencies.. product is  163520
+--
+topNumberOne  235
+topNumberTwo  0
+starNumberOne  0
+starNumberTwo  0
+bottonNumberOne  0
+bottonNumberTwo  75
+setting n1 to 0
+v is  235
+setting n2 to 0
+v is  75
+This starNumber has exactly two adjacencies.. product is  17625
