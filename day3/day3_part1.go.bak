@@ -1,0 +1,201 @@
+package main
+
+import (
+	"flag"
+	"fmt"
+	"regexp"
+	"strconv"
+	"strings"
+	"unicode"
+)
+
+var checkMapDigits = make([][]int, 0)
+var checkMapDots = make([][]int, 0)
+
+type debugLine struct {
+	leftCheck  string
+	rightCheck string
+	backLine   string
+	line       string
+	bottomLine string
+	partNumber int
+	lineNumber int
+}
+
+func main() {
+	var fileName string
+	flag.StringVar(&fileName, "inputfile", "input.txt", "the name of the input file")
+	flag.Parse()
+
+	data, err := openFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+
+	numberExtractor := regexp.MustCompile("[0-9]+")
+	dataLen := len(data)
+	partNumberSum := 0
+	totalPartsInFile := 0
+
+	partNumbersNotFound := make([]debugLine, 0)
+	for index := 0; index < dataLen; index++ {
+		line := data[index]
+
+		// extract numbers
+		lineNumbers := numberExtractor.FindAllStringIndex(line, -1)
+
+		partNumberFound := false
+		var leftCheck, rightCheck, backCheck, bottomCheck string
+		for _, y := range lineNumbers {
+			fmt.Println("start is ", y[0], " end is ", y[1])
+
+			partNumber, err := strconv.Atoi(line[y[0]:y[1]])
+			totalPartsInFile += partNumber
+			if err != nil {
+				fmt.Println("Unable to extract part number")
+			}
+
+			if index > 0 {
+				fmt.Println(data[index-1], " | ")
+			}
+			fmt.Println(line, " | Examining Part Number ", partNumber)
+			if index < dataLen-1 {
+				fmt.Println(data[index+1], " | ")
+			}
+
+			// left check only if y[0] >= 1
+			fmt.Println("Doing Left Check for ", string(line[y[0]]))
+			if y[0] >= 1 {
+				leftCheck = string(line[y[0]-1])
+				if !(unicode.IsDigit(rune(line[y[0]-1])) || strings.EqualFold(string(line[y[0]-1]), ".")) {
+					partNumberFound = true
+				} else {
+					leftCheck = string(line[y[0]] - 1)
+				}
+
+			}
+
+			// right check
+			if y[1] < len(line) {
+				fmt.Println("Doing Right Check for ", string(line[y[1]]))
+				if y[1] < len(line) {
+					rightCheck = string(line[y[1]])
+					if !(unicode.IsDigit(rune(line[y[1]])) || strings.EqualFold(string(line[y[1]]), ".")) {
+						partNumberFound = true
+					}
+
+				} else {
+					rightCheck = string(line[y[1]] + 1)
+				}
+			}
+
+			// top check
+			fmt.Println("Doing Top Check for ", y[1])
+			if index > 0 {
+				backLine := data[index-1]
+				startIndex := 0
+				if y[0] > 1 {
+					startIndex = y[0] - 1
+				} else {
+					startIndex = y[0]
+				}
+				if y[1] < len(backLine) {
+					for i := startIndex; i <= y[1]; i++ {
+						fmt.Printf("Checking backLine[%d]:%s\n", i, string(backLine[i]))
+						if !(unicode.IsDigit(rune(backLine[i])) || strings.EqualFold(string(backLine[i]), ".")) {
+							partNumberFound = true
+						}
+					}
+					backCheck = string(backLine[startIndex : y[1]+1])
+				} else {
+					for i := startIndex; i < y[1]; i++ {
+						fmt.Printf("Checking backLine[%d]:%s\n", i, string(backLine[i]))
+						if !(unicode.IsDigit(rune(backLine[i])) || strings.EqualFold(string(backLine[i]), ".")) {
+							partNumberFound = true
+						}
+					}
+					backCheck = string(backLine[startIndex:y[1]])
+				}
+
+			}
+
+			// bottom check
+			fmt.Println("Doing Bottom Check for ", y[1])
+			if index < dataLen-1 {
+				bottomLine := data[index+1]
+				fmt.Println("Len bottomLine is ", len(data[index+1]))
+
+				startIndex := 0
+				if y[0] > 1 {
+					startIndex = y[0] - 1
+				} else {
+					startIndex = y[0]
+				}
+				if y[1] < len(bottomLine) {
+					for i := startIndex; i <= y[1]; i++ {
+						fmt.Printf("Checking bottomLine[%d]:%s\n", i, string(bottomLine[i]))
+						if !(unicode.IsDigit(rune(bottomLine[i])) || strings.EqualFold(string(bottomLine[i]), ".")) {
+							fmt.Println("Found partnumber [", string(bottomLine[i]), "]")
+							partNumberFound = true
+						}
+					}
+					bottomCheck = string(bottomLine[startIndex : y[1]+1])
+				} else {
+					for i := startIndex; i < y[1]; i++ {
+						fmt.Printf("Checking bottomLine[%d]:%s\n", i, string(bottomLine[i]))
+						if !(unicode.IsDigit(rune(bottomLine[i])) || strings.EqualFold(string(bottomLine[i]), ".")) {
+							fmt.Println("Found partnumber [", string(bottomLine[i]), "]")
+							partNumberFound = true
+						}
+					}
+					bottomCheck = string(bottomLine[startIndex:y[1]])
+				}
+			}
+
+			if partNumberFound {
+				fmt.Println("Found a part! [", partNumber, "]")
+				fmt.Println()
+				partNumberSum += partNumber
+				partNumber = 0
+				partNumberFound = false
+				continue
+			}
+
+			if !partNumberFound {
+				bottomLine := ""
+				backLine := ""
+				if index > 0 {
+					backLine = backCheck
+				}
+				if index < dataLen-1 {
+					bottomLine = bottomCheck
+				}
+				partNumbersNotFound = append(partNumbersNotFound, debugLine{
+					rightCheck: rightCheck,
+					leftCheck:  leftCheck,
+					line:       line,
+					partNumber: partNumber,
+					lineNumber: index,
+					backLine:   backLine,
+					bottomLine: bottomLine,
+				})
+			}
+			fmt.Println()
+		}
+	}
+
+	unfoundPartNumbers := 0
+	for _, v := range partNumbersNotFound {
+
+		fmt.Printf("%s |\n", v.backLine)
+		fmt.Printf("%s%d%s | %d\n", v.leftCheck, v.partNumber, v.rightCheck, v.lineNumber+1)
+		fmt.Printf("%s |\n\n", v.bottomLine)
+
+		unfoundPartNumbers += v.partNumber
+	}
+
+	fmt.Println("Amount of unfound Parts ", unfoundPartNumbers)
+	fmt.Println("Total Parts In File", totalPartsInFile)
+	fmt.Println("Part sum is ", partNumberSum)
+	fmt.Printf("Sanity Check .. does Amount of Unfound Parts + Parts Sum = Total Parts In File?\nSum is %d\n", unfoundPartNumbers+partNumberSum)
+}
