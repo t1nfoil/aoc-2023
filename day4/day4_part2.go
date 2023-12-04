@@ -9,19 +9,10 @@ import (
 
 type cardType string
 
-const (
-	ORIGINAL cardType = "ORIGINAL"
-	COPY     cardType = "COPY"
-)
-
 type Card struct {
-	originalOrCopy cardType
-	matches        int
-	cardName       string
-	winning        []int
-	mine           []int
-	points         int
-	copies         int
+	matches  int
+	cardName string
+	copies   int
 }
 
 func main() {
@@ -69,52 +60,23 @@ func main() {
 			}
 		}
 
-		var points int
-		if numMatches == 1 {
-			points = 1
-		}
-		if numMatches == 2 {
-			points = 2
-		}
-		if numMatches == 3 {
-			points = 4
-		}
-		if numMatches == 4 {
-			points = 8
-		}
-		if numMatches == 5 {
-			points = 16
-		}
-		if numMatches == 6 {
-			points = 32
-		}
-		if numMatches == 7 {
-			points = 64
-		}
-		if numMatches == 8 {
-			points = 128
-		}
-		if numMatches == 9 {
-			points = 256
-		}
-		if numMatches == 10 {
-			points = 512
-		}
-
 		// create the card
 		var myCard Card
-		myCard.originalOrCopy = ORIGINAL
 		myCard.cardName = cardName
-		myCard.points = points
-		myCard.mine = myNum
 		myCard.matches = numMatches
-		myCard.winning = winNum
 
 		deck = append(deck, myCard)
+
+		// calculate the points
+		var points int
+		if numMatches > 0 {
+			points = 1 << (numMatches - 1)
+		} else {
+			points = 0
+		}
 		rollingSum += points
 
 		fmt.Println(cardName, " matches ", numMatches)
-		points = 0
 	}
 	fmt.Println("Total Points is ", rollingSum)
 
