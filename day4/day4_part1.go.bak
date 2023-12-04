@@ -1,0 +1,92 @@
+package main
+
+import (
+	"flag"
+	"fmt"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	var fileName string
+	flag.StringVar(&fileName, "inputfile", "input.txt", "the name of the input file")
+	flag.Parse()
+
+	data, err := openFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+
+	var rollingSum int
+	for _, card := range data {
+		val := strings.Split(card, ":")
+		cardNum := val[0]
+		matches := strings.Split(val[1], "|")
+
+		var winNum []int
+		wS := strings.Split(matches[0], " ")
+		for _, v := range wS {
+			t, err := strconv.Atoi(v)
+			if err == nil {
+				winNum = append(winNum, t)
+			}
+		}
+
+		var myNum []int
+		mS := strings.Split(matches[1], " ")
+		for _, v := range mS {
+			t, err := strconv.Atoi(v)
+			if err == nil {
+				myNum = append(myNum, t)
+			}
+		}
+
+		numMatches := 0
+		for _, w := range winNum {
+			for _, m := range myNum {
+				if w == m {
+					numMatches++
+				}
+			}
+		}
+
+		var points int
+		if numMatches == 1 {
+			points = 1
+		}
+		if numMatches == 2 {
+			points = 2
+		}
+		if numMatches == 3 {
+			points = 4
+		}
+		if numMatches == 4 {
+			points = 8
+		}
+		if numMatches == 5 {
+			points = 16
+		}
+		if numMatches == 6 {
+			points = 32
+		}
+		if numMatches == 7 {
+			points = 64
+		}
+		if numMatches == 8 {
+			points = 128
+		}
+		if numMatches == 9 {
+			points = 256
+		}
+		if numMatches == 10 {
+			points = 512
+		}
+
+		rollingSum += points
+
+		fmt.Println(cardNum, " matches ", numMatches)
+		points = 0
+	}
+
+	fmt.Println("Total Points is ", rollingSum)
+}
