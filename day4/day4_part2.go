@@ -74,11 +74,11 @@ func main() {
 		} else {
 			points = 0
 		}
+
 		rollingSum += points
 
 		fmt.Println(cardName, " matches ", numMatches)
 	}
-	fmt.Println("Total Points is ", rollingSum)
 
 	firstRun := true
 	for i := 0; i < len(deck); i++ {
@@ -107,5 +107,6 @@ func main() {
 		totalCards++
 		totalCards += deck[i].copies
 	}
+	fmt.Println("Total Points is ", rollingSum)
 	fmt.Println("Total cards ", totalCards)
 }
