@@ -1,0 +1,130 @@
+package main
+
+import (
+	"flag"
+	"fmt"
+	"sort"
+	"strconv"
+	"strings"
+)
+
+type rangeMapping struct {
+	mapName  string
+	dstStart int
+	dstEnd   int
+	srcStart int
+	srcEnd   int
+}
+
+type seedLocation struct {
+	locationNumber int
+	description    string
+}
+
+func (r *rangeMapping) getDst(item int) int {
+	if item >= r.srcStart && item <= r.srcEnd {
+		return r.dstStart + (item - r.srcStart)
+	}
+	return item
+}
+
+func main() {
+	var fileName string
+
+	flag.StringVar(&fileName, "inputfile", "input.txt", "the name of the input file")
+	flag.Parse()
+
+	data, err := openFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+
+	// get seeds
+	t := strings.Split(data[0], ":")
+	seeds := strings.Split(t[1], " ")
+	seeds = seeds[1:]
+
+	// load and populate the rangeMaps
+	seedMap := make(map[string][]rangeMapping)
+	mapName := ""
+	for i := 1; i < len(data); i++ {
+		if strings.Contains(data[i], "map:") {
+			m := strings.Split(data[i], " ")
+			mapName = m[0]
+			continue
+		}
+		if data[i] == "" {
+			continue
+		}
+
+		mapEntry := strings.Split(data[i], " ")
+		dst, _ := strconv.Atoi(mapEntry[0])
+		src, _ := strconv.Atoi(mapEntry[1])
+		rng, _ := strconv.Atoi(mapEntry[2])
+
+		r := rangeMapping{
+			mapName:  mapName,
+			dstStart: dst,
+			dstEnd:   dst + rng - 1,
+			srcStart: src,
+			srcEnd:   src + rng - 1,
+		}
+
+		if sm, ok := seedMap[mapName]; ok {
+			sm = append(sm, r)
+			seedMap[mapName] = sm
+			continue
+		} else {
+			var sm []rangeMapping
+			sm = append(sm, r)
+			seedMap[mapName] = sm
+		}
+	}
+
+	var seedLocations []seedLocation
+
+	for sI := 0; sI < len(seeds); sI++ {
+		seedNumber, _ := strconv.Atoi(seeds[sI])
+		mapOrder := []string{
+			"seed-to-soil",
+			"soil-to-fertilizer",
+			"fertilizer-to-water",
+			"water-to-light",
+			"light-to-temperature",
+			"temperature-to-humidity",
+			"humidity-to-location",
+		}
+
+		originalSeed := seedNumber
+		for _, conversionName := range mapOrder {
+			mapping := seedMap[conversionName]
+
+			var forwardLookups []int
+			for i := 0; i < len(mapping); i++ {
+				forwardLookups = append(forwardLookups, mapping[i].getDst(seedNumber))
+			}
+
+			locationNumber := seedNumber
+			for k := 0; k < len(forwardLookups); k++ {
+				if forwardLookups[k] != seedNumber {
+					locationNumber = forwardLookups[k]
+				}
+			}
+
+			seedNumber = locationNumber
+
+			if conversionName == "humidity-to-location" {
+				seedLocations = append(seedLocations, seedLocation{description: fmt.Sprintln("seed number ", originalSeed, "maps to location ", locationNumber), locationNumber: locationNumber})
+			}
+		}
+	}
+
+	sort.Slice(seedLocations[:], func(i, j int) bool {
+		return seedLocations[i].locationNumber > seedLocations[j].locationNumber
+	})
+
+	for _, s := range seedLocations {
+		fmt.Printf("%s", s.description)
+	}
+
+}
