@@ -1,0 +1,120 @@
+package main
+
+import (
+	"flag"
+	"fmt"
+	"strings"
+)
+
+var instruction string
+
+type node struct {
+	name  string
+	lName string
+	l     *node
+	rName string
+	r     *node
+}
+
+func main() {
+	var fileName string
+
+	flag.StringVar(&fileName, "inputfile", "input.txt", "the name of the input file")
+	flag.Parse()
+
+	data, err := openFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+
+	// build root nodes
+	var navNodes []node
+	for i, line := range data {
+		if i == 0 {
+			instruction = line
+			continue
+		}
+
+		if line != "" {
+			lsplit := strings.Split(line, "=")
+			lsplit[0] = strings.ReplaceAll(lsplit[0], " ", "")
+			lsplit[1] = strings.ReplaceAll(lsplit[1], " ", "")
+			//			fmt.Printf("%s\n%x\n", lsplit[1], lsplit[1])
+			rlsplit := strings.Split(lsplit[1], ",")
+			lName := strings.TrimPrefix(rlsplit[0], "(")
+			//			fmt.Printf("lName: %s\n%x\n", lName, lName)
+			rName := strings.TrimSuffix(rlsplit[1], ")")
+			//			fmt.Printf("rName: %s\n%x\n", rName, rName)
+
+			n := node{
+				name:  lsplit[0],
+				lName: lName,
+				rName: rName,
+			}
+
+			navNodes = append(navNodes, n)
+
+		}
+	}
+
+	// build leave associations
+	for i, n := range navNodes {
+		// do all the lnodes
+		for il, leaf := range navNodes {
+			if strings.EqualFold(n.lName, leaf.name) {
+				navNodes[i].l = &navNodes[il]
+			}
+		}
+		// do all the rnodes
+		for ir, leaf := range navNodes {
+			if strings.EqualFold(n.rName, leaf.name) {
+				navNodes[i].r = &navNodes[ir]
+			}
+		}
+	}
+
+	var activeNode node
+	for i, n := range navNodes {
+		if n.name == "AAA" {
+			activeNode = navNodes[i]
+		}
+	}
+
+	steps := 0
+	ip := 0
+	for {
+
+		//	fmt.Printf("N: %s -> ", activeNode.name)
+		if ip < len(instruction) {
+			//		fmt.Printf("INST: %s  -> ", string(instruction[ip]))
+			if string(instruction[ip]) == "L" {
+				activeNode = *activeNode.l
+				//fmt.Printf(" NODE -> %s\n", activeNode.name)
+				ip++
+				steps++
+			} else {
+				activeNode = *activeNode.r
+				//	fmt.Printf(" NODE -> %s\n", activeNode.name)
+				ip++
+				steps++
+
+			}
+			if activeNode.name == "ZZZ" {
+				fmt.Printf("Steps is %d\n", steps)
+				break
+			}
+
+		} else {
+			if activeNode.name == "ZZZ" {
+				fmt.Printf("Steps is %d\n", steps)
+				break
+			}
+
+			ip = 0
+		}
+
+	}
+
+	//spew.Dump(navNodes)
+
+}
